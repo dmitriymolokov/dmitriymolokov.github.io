@@ -55,13 +55,13 @@
     "versionPublish": "4.12.2",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/shutterstock-1478746187-02-2-cropped-128x128.png",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://meltingwater.com",
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#232323",
@@ -83,7 +83,8 @@
         "meta_descr": "A totally different hydration tracking mobile app",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mw_social_sharing_image-1200x630.png"
       },
       "components": [
         {
