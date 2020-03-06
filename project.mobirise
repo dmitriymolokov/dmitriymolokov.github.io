@@ -79,11 +79,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Melting Water",
+        "title": "Melting Water. A different hydration tracker",
         "meta_descr": "A totally different hydration tracking mobile app",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mw_social_sharing_image-1200x630.png"
       },
       "components": [
         {
