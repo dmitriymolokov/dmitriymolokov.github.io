@@ -54,7 +54,7 @@
     "uniqCompNum": 37,
     "versionPublish": "4.12.2",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/shutterstock-1478746187-02-2-cropped-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/shutterstock-1478746187-02-128x128-1.png",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
