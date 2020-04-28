@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://meltingwater.com/index.html</loc>
-	</url>
-	<url>
 		<loc>https://meltingwater.com/support.html</loc>
 	</url>
 	<url>
@@ -10,5 +7,8 @@
 	</url>
 	<url>
 		<loc>https://meltingwater.com/terms-and-conditions.html</loc>
+	</url>
+	<url>
+		<loc>https://meltingwater.com/index.html</loc>
 	</url>
 </urlset>
