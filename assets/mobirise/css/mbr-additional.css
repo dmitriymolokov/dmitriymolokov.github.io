@@ -928,7 +928,14 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rXtIlBn5Th H1 {
-  text-align: left;
+  text-align: center;
+}
+.cid-rXtIlBn5Th H3 {
+  text-align: center;
+}
+.cid-rXtIlBn5Th .mbr-text,
+.cid-rXtIlBn5Th .mbr-section-btn {
+  text-align: center;
 }
 .cid-rXtIm2KULr {
   padding-top: 0px;
